@@ -65,6 +65,7 @@ h2 {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 30px;
+    text-shadow: -10px 10px 10px #000;
 }
 
 h4 {
