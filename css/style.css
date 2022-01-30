@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Neonderthaw:regular);
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Rubik+Beastly&display=swap');
+@font-face {
+    font-family: 'Comforter';
+    src: url('../fonts/Comforter-Regular.woff2') format('woff2'), url('../fonts/Comforter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Genos';
+    src: url('../fonts/Genos-Thin.woff2') format('woff2'),
+        url('../fonts/Genos-Thin.woff2') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+body {
+}
+
+[class*="block"] {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px 10px red;
+
+}
+
+.head {
+    font-family: 'Comforter';
+    font-size: 75px;
+}
+
+.menu li {
+    font-family: 'Neonderthaw', cursive;
+font-family: 'Rubik Beastly', cursive;
+    text-decoration: underline;
+    
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h4 {
+    font-family: 'Neonderthaw', cursive;
+font-family: 'Rubik Beastly', cursive;
+font-size: 30px;
+text-align: center;
+}
+
